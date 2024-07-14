@@ -17,8 +17,6 @@ function toggleMode() {
  if(html.classList.contains("light")) {
   img.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos escuro e jaqueta preta e um fundo azul e roxo")
  } else {
-  img.setAttribute(
-    "alt", "Foto de Mayk Brtito sorrindo, usando óculos e camisa preta, barba e um fundo amarelo"
-  )
+  img.setAttribute("alt", "Foto de Mayk Brtito sorrindo, usando óculos e camisa preta, barba e um fundo amarelo")
  }
 }
